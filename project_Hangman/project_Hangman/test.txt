@@ -1,0 +1,12 @@
+start
+apple
+orange
+highlight
+mirror
+memo
+music
+computer
+sound
+cellphone
+enter
+effect
